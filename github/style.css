@@ -1,0 +1,113 @@
+body
+{
+	background-image: url(images/index.jpg);
+}
+
+.div1
+{
+	color: #fec063 ;
+	background-color: #fec063 ; 
+	width: 94%;
+	height: 94%;  
+	margin: 3%;
+	border: 5px; 
+	border-color: #fec063; 
+	border-style: solid; 
+	border-radius:10px;
+}
+
+.aktiv
+{
+	color:  #111111; 
+	font-family:"Amasis MT Pro Medium",cursive;
+}
+
+.nemaktiv
+{
+	color: #633b01; 
+	font-family:"Amasis MT Pro Medium",cursive;
+}
+
+.hindexportfolio
+{
+	color: #633b01; 
+	margin-left: 10%;
+	font-family:"Amasis MT Pro Medium",cursive;	
+}
+
+.hindexnev
+{
+	color: #633b01; 
+	margin-left: 71%;
+	font-family:"Amasis MT Pro Medium",cursive;
+}
+
+.hindexcim
+{
+	text-align: center;
+	color: #111111;
+	font-family: "Amasis MT Pro Medium",cursive;
+}
+
+.hrolam
+{
+	color: #633b01;
+	background-color: #fec063; 
+	margin-left: 15%; 
+	margin-right: 15%; 
+	border: 1px;
+	border-color:#111111; 
+	border-style: solid; 
+	border-radius:10px;
+	padding: 5px;
+	font-family:"Amasis MT Pro Medium", cursive;
+	text-align: justify;
+}
+
+.htervezet
+{
+	color: #633b01;
+	background-color: #fec063; 
+	margin-left: 15%; 
+	margin-right: 15%; 
+	border: 1px;
+	border-color:#111111; 
+	border-style: solid; 
+	border-radius:10px;
+	padding: 5px;
+	font-family:"Amasis MT Pro Medium", cursive;
+	text-align: center;
+}
+
+p
+{
+	color: black; 
+	text-align: center;
+	border: 1px;
+	border-color:#111111; 
+	border-style: solid; 
+	border-radius: 10px;
+	margin-left: 25%;
+	margin-right: 25%;
+	font-family: "Amasis MT Pro Medium",cursive;
+}
+
+.divkepek
+{
+	color: #633b01; 
+	background-color: #633b01; 
+	width: 40%;  
+	margin-left:auto;
+	margin-right:auto;
+	border: 2px;
+	border-color:#633b01; 
+	border-style: solid; 
+	border-radius: 5px;
+	display: block;
+}
+
+img
+{
+	margin-left:10%;
+	margin-right:10%;
+}
